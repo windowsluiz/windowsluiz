@@ -16,6 +16,10 @@ I am currently focused on developing a solid foundation in programming, especial
 
 My goal is to become a skilled software developer by gaining experience, contributing to projects, and deepening my knowledge in different areas of development.
 
+## Projects
+
+- [Codigos](https://github.com/windowsluiz/codigos)
+
 ## Contact
 
 * GitHub: https://github.com/windowsluiz
